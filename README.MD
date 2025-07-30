@@ -8,7 +8,7 @@ Este projeto consiste em uma análise exploratória de dados (EDA) com o objetiv
 
 O conjunto de dados utilizado neste projeto foi obtido na plataforma Kaggle e contém informações diversas sobre crimes, incluindo localizações, tipos de ocorrência e outros atributos relevantes.
 
-- **Fonte**: [Crime and Safety Dataset - Kaggle](https://www.kaggle.com/code/sonawanelalitsunil/crime-safety-incident-ml-12-50)
+- **Fonte**: [Crime and Safety Dataset - Kaggle](https://www.kaggle.com/datasets/shamimhasan8/crime-and-safety-dataset/data)
 - **Formato**: CSV
 - **Tamanho**: Varia conforme a versão baixada
 
